@@ -1,3 +1,5 @@
+(color-theme-twilight)
+
 (require 'ido)
 (ido-mode t)
 
